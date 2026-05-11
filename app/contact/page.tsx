@@ -1,12 +1,12 @@
 export const metadata = {
-  title: "About Page",
-  description: "This is the about page of the Next.js application.",
+  title: "Contact Page",
+  description: "This is the contact page of the Next.js application.",
 };
 
-export default function About() {
+export default function Contact() {
     return (
         <div>
-           <h1 className="font-bold text-2xl text-gray-600">About</h1>
+           <h1 className="font-bold text-2xl text-gray-600">Contact</h1>
             <div className="py-4 text-gray-600">
                 <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas dolorum
