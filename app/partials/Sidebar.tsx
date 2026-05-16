@@ -10,6 +10,7 @@ interface Menu {
 const menus: Menu[] = [
     { label: "Home", href: "/" },
     { label: "About", href: "/about" },
+    { label: "Post", href: "/posts" },
     { label: "Contact", href: "/contact" },
 ];
 
